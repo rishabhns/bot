@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Guys!
+This is Rjeez and I am perfect tech enthusiast.
